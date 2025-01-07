@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0605-can-place-flowers](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
