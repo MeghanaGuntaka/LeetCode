@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0485-max-consecutive-ones](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0605-can-place-flowers) |
+| [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Binary Search
 |  |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
