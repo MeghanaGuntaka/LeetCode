@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0238-product-of-array-except-self](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0605-can-place-flowers) |
 | [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
