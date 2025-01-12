@@ -31,12 +31,14 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
