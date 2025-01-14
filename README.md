@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0443-string-compression) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
