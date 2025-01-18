@@ -13,6 +13,7 @@
 | [0605-can-place-flowers](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0605-can-place-flowers) |
 | [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -104,4 +105,24 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
