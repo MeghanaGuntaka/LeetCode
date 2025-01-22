@@ -19,6 +19,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1876-map-of-highest-peak](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2145-grid-game) |
 ## Shortest Path
 |  |
