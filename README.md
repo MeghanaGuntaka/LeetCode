@@ -18,6 +18,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1876-map-of-highest-peak](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2145-grid-game) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Brainteaser
 |  |
 | ------- |
@@ -146,4 +148,5 @@
 | [0643-maximum-average-subarray-i](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
