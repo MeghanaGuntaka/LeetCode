@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -95,6 +96,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2145-grid-game) |
@@ -149,4 +153,12 @@
 | [1046-max-consecutive-ones-iii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
