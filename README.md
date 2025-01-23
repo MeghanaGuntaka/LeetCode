@@ -21,6 +21,7 @@
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2145-grid-game) |
 ## Counting
 |  |
