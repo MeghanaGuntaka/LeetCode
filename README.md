@@ -28,6 +28,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
