@@ -74,6 +74,7 @@
 | [1894-merge-strings-alternately](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2470-removing-stars-from-a-string](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,4 +200,8 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
