@@ -33,6 +33,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
