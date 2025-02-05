@@ -54,6 +54,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -75,6 +76,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -120,6 +122,7 @@
 | [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
