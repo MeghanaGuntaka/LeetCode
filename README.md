@@ -64,6 +64,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0649-dota2-senate) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2509-minimize-xor) |
@@ -73,6 +74,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0649-dota2-senate) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -222,6 +224,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
