@@ -18,6 +18,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -119,6 +121,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
