@@ -58,6 +58,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeghanaGuntaka/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -175,6 +176,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MeghanaGuntaka/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2434-design-a-number-container-system](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -239,4 +242,8 @@
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
