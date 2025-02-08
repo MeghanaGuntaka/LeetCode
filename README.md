@@ -240,10 +240,15 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/MeghanaGuntaka/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MeghanaGuntaka/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
